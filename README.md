@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Pasham Sathwika Banner">
+</p>
+
 Hi 👋, I'm Pasham Sathwika
 
 🎓 Computer Science & Data Science Student
