@@ -67,6 +67,10 @@ Technologies
 
 ---
 
+## Resume
+
+- [view My Resume](./Resume.pdf)
+
 📫 Connect With Me
 
 - Email: reddypashamsathwika@gmail.com
