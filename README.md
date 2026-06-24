@@ -69,7 +69,7 @@ Technologies
 
 ## Resume
 
-- [view My Resume](./Resume.pdf)
+- [view My Resume](./Resume.pdf.pdf)
 
 📫 Connect With Me
 
