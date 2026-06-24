@@ -1,16 +1,76 @@
-## Hi there 👋
+Hi 👋, I'm Pasham Sathwika
 
-<!--
-**Sathwikareddy33/Sathwikareddy33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Data Science Student
 
-Here are some ideas to get you started:
+📍 Hyderabad, Telangana, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Data Science student interested in AI, Machine Learning, Data Analytics, and Software Development. I enjoy solving real-world problems using data-driven approaches.
+
+---
+
+🚀 About Me
+
+- 🎓 B.Tech CSE (Data Science) at SIET College
+- 📊 CGPA: 8.5/10
+- 🌱 Learning Machine Learning & AI
+- 💻 Interested in Data Science and Analytics
+- 🔍 Passionate about extracting insights from data
+
+---
+
+🛠️ Technical Skills
+
+Programming Languages
+
+- Python
+- SQL
+- Java
+
+Tools
+
+- Git
+- GitHub
+
+Database
+
+- MySQL
+
+Technologies
+
+- AI & ML Basics
+- Data Science
+
+---
+
+📂 Projects
+
+🎵 Music Recommendation Using Image Recognition
+
+- Emotion-based music recommendation system
+- Image sentiment analysis
+- Achieved 85% recommendation accuracy
+
+💧 Water Quality Classification
+
+- Classification model for drinking water safety
+- Water quality assessment and prediction
+- Regional data analysis
+
+---
+
+🏆 Achievements
+
+- 🥈 2nd Prize – Project Expo at Siddhastha SIET
+- 💡 Hackathon Participant at Mallareddy University
+- 💡 Project Expo Participant at Vardhaman College
+- 📜 NPTEL Machine Learning Certification
+
+---
+
+📫 Connect With Me
+
+- Email: reddypashamsathwika@gmail.com
+- LinkedIn: www.linkedin.com/in/pasham-sathwika-9361992a7
+- GitHub: github.com/sathwikareddy23
+
+---
