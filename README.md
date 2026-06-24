@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Pasham Sathwika Banner">
+  <img src="banner.jpeg" alt="Pasham Sathwika Banner">
 </p>
 
 Hi 👋, I'm Pasham Sathwika
