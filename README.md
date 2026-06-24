@@ -78,3 +78,8 @@ Technologies
 - GitHub: github.com/sathwikareddy23
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathwikareddy23&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikareddy23&layout=compact)
