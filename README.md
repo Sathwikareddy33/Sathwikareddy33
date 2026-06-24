@@ -83,3 +83,7 @@ Technologies
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathwikareddy23&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikareddy23&layout=compact)
+
+🐍 Contribution Snake
+
+"Snake animation" (https://github.com/Sathwikareddy33/Sathwikareddy33/blob/output/github-contribution-grid-snake.svg)
