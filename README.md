@@ -80,10 +80,11 @@ Technologies
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathwikareddy23&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sathwikareddy33&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathwikareddy23&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathwikareddy33&layout=compact)
 
-🐍 Contribution Snake
 
-"Snake animation" (https://github.com/Sathwikareddy33/Sathwikareddy33/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Sathwikareddy33/Sathwikareddy33/blob/output/github-contribution-grid-snake.svg)
